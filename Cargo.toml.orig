@@ -1,12 +1,3 @@
-[package]
-name = "tinyvec_macros"
-version = "0.1.0"
-authors = ["Soveu <marx.tomasz@gmail.com>"]
-edition = "2018"
-license = "MIT OR Apache-2.0 OR Zlib"
-repository = "https://github.com/Soveu/tinyvec_macros"
-description = "Some macros for tiny containers"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d68f6a5e3c1d88f1795a04a7c41d3d8304837e980fbeeac06837a6911fc4b90b
+size 368
